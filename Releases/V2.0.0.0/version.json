@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0.0",
+  "files": [
+    {"name": "MyApp.exe", "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.0/Hms_FinanceDZ.exe", "hash": "SHA256_HASH_HERE"},
+    {"name": "MyApp.exe.config", "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.0/Hms_FinanceDZ.exe.config", "hash": "SHA256_HASH_HERE"}
+  ],
+  "sql_script": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.0/update.sql",
+  "notes": "Initial release"
+}
