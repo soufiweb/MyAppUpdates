@@ -5,7 +5,12 @@
       "name": "Hms_FinanceDZ.exe",
       "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.0/Hms_FinanceDZ.exe",
       "hash": "1d1dea006c1c59f1e1b21efc75c91a6080256486493806d282ac79b4b835868b"
+    },
+    {
+      "name": "Hms_FinanceDZ.exe.config",
+      "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.0/Hms_FinanceDZ.exe.config",
+      "hash": "fc1dac9ae440e6161900e3f2683155ee26cceff95b0a18ded9b76f9ce3fed6f0"
     }
   ],
-  "notes": "الإصدار 2.0.0.0"
+  "notes": "الإصدار 2.0.0.0 مع ميزات جديدة"
 }
