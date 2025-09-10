@@ -4,13 +4,8 @@
     {
       "name": "Hms_FinanceDZ.exe",
       "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.0/Hms_FinanceDZ.exe",
-      "hash": "SHA256_HASH_HERE"
-    },
-    {
-      "name": "Hms_FinanceDZ.exe.config",
-      "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.0/Hms_FinanceDZ.exe.config",
-      "hash": "SHA256_HASH_HERE"
+      "hash": "1d1dea006c1c59f1e1b21efc75c91a6080256486493806d282ac79b4b835868b"
     }
   ],
-  "notes": "الإصدار 2.0.0.0 مع ميزات جديدة"
+  "notes": "الإصدار 2.0.0.0"
 }
