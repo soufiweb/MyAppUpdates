@@ -1,16 +1,16 @@
 {
-  "version": "2.0.0.0",
+  "version": "2.0.0.1",
   "files": [
     {
       "name": "Hms_FinanceDZ.exe",
-      "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.0/Hms_FinanceDZ.exe",
-      "hash": "1d1dea006c1c59f1e1b21efc75c91a6080256486493806d282ac79b4b835868b"
+      "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.1/Hms_FinanceDZ.exe",
+      "hash": "554ff47bfe857beae1a6301a680aac6249a4317b505e93ad7bfe2803bee9bc1a"
     },
     {
       "name": "Hms_FinanceDZ.exe.config",
-      "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.0/Hms_FinanceDZ.exe.config",
+      "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.1/Hms_FinanceDZ.exe.config",
       "hash": "fc1dac9ae440e6161900e3f2683155ee26cceff95b0a18ded9b76f9ce3fed6f0"
     }
   ],
-  "notes": "الإصدار 2.0.0.0 مع ميزات جديدة"
+  "notes": "  تم اضافة امكانية التخديث اونلاين مع اضافة امكانية الطباعة للكل حسب الأمانات وتصحيح بعض الواجهات الإصدار 2.0.0.1 مع ميزات جديدة"
 }
