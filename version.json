@@ -1,18 +1,15 @@
 {
   "version": "2.0.0.1",
-  "last_updated": "2025-09-11 11:37:00",
-  "files": [
+   "files": [
     {
       "name": "Hms_FinanceDZ.exe",
       "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.1/Hms_FinanceDZ.exe",
       "hash": "ca127e1d4c6ff34454c18b241c62ef1a342bba31199ac0a20cf5ee4d338baba8",
-      "last_modified": "2025-09-10 14:30:00"
-    },
+     },
     {
       "name": "Hms_FinanceDZ.exe.config",
       "url": "https://raw.githubusercontent.com/soufiweb/MyAppUpdates/main/Releases/V2.0.0.1/Hms_FinanceDZ.exe.config",
       "hash": "fc1dac9ae440e6161900e3f2683155ee26cceff95b0a18ded9b76f9ce3fed6f0",
-      "last_modified": "2025-09-10 14:30:00"
     }
   ],
   "notes": "• تم اضافة امكانية التحديث اونلاين\n• اضافة امكانية الطباعة للكل حسب الأمانات\n• تصحيح بعض الواجهات الإصدار 2.0.0.1 مع ميزات جديدة"
